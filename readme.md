@@ -182,5 +182,5 @@ and override the following sections of the default flashy view:
         <a href="#" class="flashy__body" target="_blank"></a>
     </div>
 </script>
-```
+``` 
 
